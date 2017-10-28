@@ -1,0 +1,3 @@
+rootProject.name = 'Nepali_Calender'
+
+include ':app'
