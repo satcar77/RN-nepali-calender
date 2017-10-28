@@ -9,8 +9,8 @@ This is a Simple React Native Application without back ends. It utilizes JSON da
 ----------
 
 > - I am no longer maintaining this application. 
-> - Sorry no app store links. There are already many Calender apps out there 100x better than this. 
-> - I made this application just to learn and play with react native capabilities. If you are interested, feel free to fork or integrate it in your application. 
+> - Sorry, but no app store links. There are already plenty of Nepali calender out there that are 100x better than this. 
+> - I made this application to learn and play with react native capabilities. If you are interested, feel free to fork or integrate it in your application. 
 
 **Setting up the development environment :**
 
