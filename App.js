@@ -9,7 +9,7 @@ import {
   ScrollView,
   ListView,
 } from 'react-native';
-import {StyleProvider,Container, Header, Left, Body, Right, Button, Icon, Title,Tabs,Tab, Content, Card,CardItem ,Thumbnail ,Image, Form,Item, Badge, TabHeading} from 'native-base';
+import {StyleProvider,Container, Header, Left, Body, Right, Button, Icon, Title,Tabs,Tab, Content, Card,CardItem ,Thumbnail ,Item,  TabHeading} from 'native-base';
 
 import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from 'react-native-table-component';
 import LoadingScreen from './LoadingScreen'
