@@ -1,6 +1,6 @@
 # Simple Nepali Calender
 
-This is a Simple React Native Application without back end. It utilizes JSON datas from http://github.com/satcar77/nepalicalender.  Uses AsyncStorage component of RN to store the downloaded JSON file.  
+This is a Simple React Native Application without back end. It utilizes JSON datas from http://github.com/satcar77/nepalicalender.    
 
 ----------
 
